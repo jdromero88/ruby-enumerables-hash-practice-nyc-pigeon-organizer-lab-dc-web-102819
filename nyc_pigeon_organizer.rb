@@ -6,5 +6,5 @@ def nyc_pigeon_organizer(data)
     puts "algo de codigo here"
     i += 1
   end
-
+ data
 end
